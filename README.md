@@ -1,6 +1,6 @@
 # DATA602-Group-Project
 
-Topic: Predicting housing prices in Austin Texas based on property characteristics 
+Topic: Predicting housing prices in Austin, Texas based on property characteristics and location. 
 
 Group members:
 
