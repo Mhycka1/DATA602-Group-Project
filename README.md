@@ -7,4 +7,4 @@ Group members:
 Jed Daleiden,
 Elliot Fomin,
 Hajime Inoue,
-Michael McDonald,
+Michael McDonald
