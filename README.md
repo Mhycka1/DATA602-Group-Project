@@ -2,7 +2,7 @@
 
 Project Name: Austin Housing Price Prediction
 
-Topic: Predicting housing prices in Austin, Texas based on property characteristics and location. 
+Topic: Predicting housing prices in the Austin, Texas area based on property characteristics and location. 
 
 Group members:
 
